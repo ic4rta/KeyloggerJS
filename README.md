@@ -1,5 +1,5 @@
 # KeyloggerJS
-Keylogger in Javascript that saves data in a .txt file created with PHP
+Keylogger en JS y PHP para crear un txt con las teclas pulsadas
 
-# Usage 
-Just start a localhost server in the project folder 
+# Uso 
+Solo inicia un servidor local con PHP
